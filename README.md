@@ -14,7 +14,4 @@ d'emploi.
 
 * Ce TP a été compilé avec le compilateur: gcc (version 8.1.0)
 
-* Ce TP est pris en charge sur la plate-forme WINDOWS uniquement a cause d'utilisation des commandes propre à WINDOWS (ex: cls, color, ...)
-
-* Vous trouvez toutes les bibliothèques utilisées dans ce TP dans le dossier "lib" + la bibliothèque "EMPLOI_LLC_BIBLIO" qui contient les 
-fonctions et procedures demandées en énoncé du TP
+* Ce TP est pris en charge sur la plate-forme WINDOWS uniquement a cause d'utilisation des commandes propre à WINDOWS comme `cls` et `color`
