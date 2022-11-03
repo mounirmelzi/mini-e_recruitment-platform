@@ -1,4 +1,4 @@
-# TP 1  d'algorithmes et structures de données dynamique [my first year TP in my school `ESI` Ecole Nationale Superieure d'Informstique alger]
+# TP 1  d'algorithmes et structures de données dynamique [my first year TP in my school `ESI` Ecole Nationale Superieure d'Informatique à Alger]
 
 
 * ## Gestion des e-recrutements:
