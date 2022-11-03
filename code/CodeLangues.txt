@@ -1,0 +1,10 @@
+0 - Francais
+1 - Anglais
+2 - Arabe
+3 - Japonaise
+4 - Italienne
+5 - Russe
+6 - Chinoise
+7 - Espagnol
+8 - Allemagne
+9 - Portugais

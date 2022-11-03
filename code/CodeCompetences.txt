@@ -1,0 +1,16 @@
+0 - Developpement de logiciels 
+1 - Developpement mobile 
+2 - Developpement Web 
+3 - Securite des reseaux 
+4 - Administration de bases de donnees 
+5 - Administration reseau 
+6 - Systeme d'information 
+7 - Data Analysis 
+8 - Cloud Computing 
+9 - Genie logiciel 
+10 - Media sociaux 
+11 - Big Data 
+12 - Machine Learning 
+13 - Cybersecurite 
+14 - Blockchain 
+15 - Business Intelligence

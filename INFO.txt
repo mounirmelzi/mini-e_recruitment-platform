@@ -1,0 +1,19 @@
+
+				   	    ALERT :: ATTENTION !!
+
+		Veuillez ne pas fermer le programme en cliquant sur le bouton 'X' en haut de la fenetre,
+
+			    Nous disposons pour vous un choix de QUITTER LE PROGRAMME,
+	 		       et nous allons liberer tous l'espace memoire alloue.
+
+	   NB:Nous ne sommes pas responsables de toutes les pertes de memoire dues a l'arret du programme
+	 				     pendant l'execution
+
+
+
+		AUTRE REMARQUES IMPORTANTES:
+
+	- Veuillez consultez les fichiers "README !.txt" pour obtenir de l'aide sur le programme
+	- Veuillez respecter le format des fichiers dans le cas ou vous voulez les modifier
+	- Ne pas supprimer les dossiers suivants: data | code | lib et en generale tous les autres fichiers
+	
